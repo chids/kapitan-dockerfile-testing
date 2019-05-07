@@ -1,0 +1,9 @@
+classes:
+  - component.docker
+parameters:
+  kapitan:
+    vars:
+      target: manifest
+  stuffs:
+    - name: foo
+    - name: bar

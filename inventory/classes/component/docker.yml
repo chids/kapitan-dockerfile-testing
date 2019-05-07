@@ -1,0 +1,7 @@
+parameters:
+  kapitan:
+    compile:
+      - output_path: docker
+        input_type: jsonnet
+        input_paths:
+          - components/docker.jsonnet

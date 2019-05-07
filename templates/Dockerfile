@@ -1,0 +1,3 @@
+FROM {{name}}
+ENTRYPOINT ["blah"]
+
